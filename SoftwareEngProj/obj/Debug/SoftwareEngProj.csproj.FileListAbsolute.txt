@@ -1,0 +1,19 @@
+D:\Users\Michael Walls\Documents\Visual Studio 2013\Projects\SoftwareEngProj\SoftwareEngProj\bin\Debug\SoftwareEngProj.exe.config
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CancelMeetingPt1.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CancelMeetingPt2.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CreatingPt1.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CreatingPt2.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CreatingPt3.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.CreatingPt4.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.MeetingDisplay.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.Menu.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.Properties.Resources.resources
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.csproj.GenerateResource.Cache
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\bin\Debug\SoftwareEngProj.exe.config
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\bin\Debug\SoftwareEngProj.exe
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\bin\Debug\SoftwareEngProj.pdb
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.exe
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.pdb
+D:\Documents\ComputerScience\2016-17\SystemsDevelopment\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.csprojResolveAssemblyReference.cache
+D:\Users\Michael Walls\Documents\Visual Studio 2013\Projects\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.exe
+D:\Users\Michael Walls\Documents\Visual Studio 2013\Projects\SoftwareEngProj\SoftwareEngProj\obj\Debug\SoftwareEngProj.pdb
